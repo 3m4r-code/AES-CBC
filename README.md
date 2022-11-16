@@ -10,4 +10,4 @@ First compile the source file
 Then in the command line write (in order): 
 [executable] [encrypt or decrypt] [key size in bits (128 or 192 or 256)] [key (16 or 24 or 32 bytes long)] [IV (16 bytes long)] [input file path] [output file path]
 
-#*This is for educational and demonstration purposes only* 
+*This is for educational and demonstration purposes only* 
